@@ -1,0 +1,32 @@
+.text-field {
+    margin-bottom: 30px;
+    color: white;
+}
+
+.image-container{
+    margin-top: 50px;
+}
+
+.card{
+    max-width: 10rem;
+    min-height: 10rem;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.image{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.flex-gap {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+.flex-gap > Button{
+    margin: 6px;
+ }
+
+.clear-button{
+    margin-left: 200px;
+}
